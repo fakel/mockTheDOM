@@ -1,6 +1,6 @@
 # mockTheDOM
 
-Un ejemplo de como usar JSDOm para mockear el dom de nuestro proyecto
+Un ejemplo de como usar JSDOM para mockear el DOM de nuestro proyecto
 
 ## Archivos
 
